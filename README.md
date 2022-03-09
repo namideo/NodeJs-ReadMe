@@ -25,8 +25,9 @@
   
   ## Usage 
   
-  ![E74BE735-FC9E-4914-9C0E-14F66DF39C6C_1_102_o](https://user-images.githubusercontent.com/94868925/157379527-48e38a38-d701-49b8-b0a7-4eb
-  
+![E74BE735-FC9E-4914-9C0E-14F66DF39C6C_1_102_o](https://user-images.githubusercontent.com/94868925/157379817-a5dfaea4-ca39-42d9-8af9-7f7666740319.jpeg)
+
+
   This appliation uses inquirer to collect user input and fs.writeFile to generate the README file. 
   
   First run "node index" in the command line and you will be prompted with a series of questions for criteria. Once all the questions have been answered the file will be generated.
