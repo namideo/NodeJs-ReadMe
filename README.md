@@ -25,7 +25,7 @@
   
   ## Usage 
   
-  ![E74BE735-FC9E-4914-9C0E-14F66DF39C6C_1_102_o](https://user-images.githubusercontent.com/94868925/157378865-c5463499-4259-4ff6-9f5a-4c3c9f1ad9a2.jpeg)
+  ![E74BE735-FC9E-4914-9C0E-14F66DF39C6C_1_102_o](https://user-images.githubusercontent.com/94868925/157379527-48e38a38-d701-49b8-b0a7-4eb
   
   This appliation uses inquirer to collect user input and fs.writeFile to generate the README file. 
   
